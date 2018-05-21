@@ -1,3 +1,12 @@
 title: Py Campers
-google_analytics: UA-119542427-2
+ga_analytics: UA-119542427-2
 remote_theme: nielsenramon/chalk
+blog_theme: dark
+name: Py Campers
+paginate: 25
+url: http://pycampers.com/
+social:
+    github: https://github.com/pycampers
+    twitter: https://twitter.com/pycampers
+    youtube: https://www.youtube.com/channel/UCgCeAEPuLidDCKJKMZO2eGA
+    
