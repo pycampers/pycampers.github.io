@@ -7,9 +7,6 @@ Py Campers is techno religion, which preaches the python programming language.
 [Why we need a techno religion](https://www.youtube.com/watch?v=lgeyUd_piiU)
 
 
-
--------
-
 ### Join us, will ye?
 
 Accept these:
