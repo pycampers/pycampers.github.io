@@ -10,14 +10,14 @@ Py Campers is techno religion, which preaches the python programming language.
 
 -------
 
-#### Join us
+### Join us, will ye?
 
-But first, you need to accept this.
-- Nobody knows what they're doing
+Accept these:
+- No-one knows what they're doing 🌟
 - Everything is meaningless
 - [Meaning is a Jumper That You Have to Knit Yourself](https://www.youtube.com/watch?v=psaCM1j9LEM&t=1s)
 
 
 No, we're not a bunch of crazy people, we're actual developers just like yourself. 
 
-[🐍🏕️](http://www.pycampers.com)
+[🐍🏕️](http://www.pycampers.com) <~ Official Mascot
