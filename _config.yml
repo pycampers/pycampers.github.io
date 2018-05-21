@@ -1,8 +1,8 @@
-title: Py Campers
-ga_analytics: UA-119542427-2
 remote_theme: nielsenramon/chalk
-blog_theme: dark
+title: Py Campers
 name: Py Campers
+ga_analytics: UA-119542427-2
+blog_theme: dark
 paginate: 25
 url: http://pycampers.com/
 social:
