@@ -1,16 +1,7 @@
 remote_theme: nielsenramon/chalk
 
-title: Py Campers
-
-blog_theme: dark
-name: Py Campers
+blog_theme: "dark"
+name: "Py Campers"
 paginate: 25
-url: http://pycampers.com
+url: "http://pycampers.com"
 
-ga_analytics: UA-119542427-2
-
-social:
-    github: https://github.com/pycampers
-    twitter: https://twitter.com/pycampers
-    youtube: https://www.youtube.com/channel/UCgCeAEPuLidDCKJKMZO2eGA
-    email: pycampers@gmail.com
