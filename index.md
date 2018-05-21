@@ -17,4 +17,4 @@ Accept these:
 
 No, we're not a bunch of crazy people, we're actual developers just like yourself. 
 
-[🐍🏕️](http://www.pycampers.com) <~ Official Mascot
+[🐍🏕️](https://github.com/pycampers) <~ Official Mascot
