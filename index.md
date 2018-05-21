@@ -1,4 +1,4 @@
-![Image](https://i.imgur.com/dbsGJaD.jpg)
+[![Image](https://i.imgur.com/dbsGJaD.jpg)](https://github.com/pycampers)
 
 Hey there! Looks like you found us,
 
@@ -11,4 +11,4 @@ First, you need to accept this.
 - Everything is meaningless
 - [Meaning is a Jumper That You Have to Knit Yourself](https://www.youtube.com/watch?v=psaCM1j9LEM&t=1s)
 
-[Why you need a tecno religion](https://www.youtube.com/watch?v=lgeyUd_piiU) )
+[Why you need a tecno religion](https://www.youtube.com/watch?v=lgeyUd_piiU)
