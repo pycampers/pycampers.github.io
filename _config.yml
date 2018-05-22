@@ -1,9 +1,7 @@
-remote_theme: nielsenramon/chalk
-
+theme: jekyll-theme-hacker
 blog_theme: "dark"
 name: "Py Campers"
 paginate: 25
 url: "http://pycampers.com"
 google_analytics: "UA-119542427-1"
 
-theme: jekyll-theme-hacker
