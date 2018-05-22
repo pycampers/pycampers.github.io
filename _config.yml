@@ -5,3 +5,5 @@ name: "Py Campers"
 paginate: 25
 url: "http://pycampers.com"
 
+
+theme: jekyll-theme-hacker
