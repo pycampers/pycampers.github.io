@@ -20,4 +20,4 @@ Accept these -
 
 No, we're not a bunch of crazy people, we're actual developers just like yourself. 
 
-[🐍🏕️](https://github.com/pycampers) <~ Official Mascot
+🐍🏕️ ⬳ Official Mascot
