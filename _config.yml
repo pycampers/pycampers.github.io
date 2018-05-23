@@ -2,7 +2,6 @@
 remote_theme: mmistakes/so-simple-theme
 blog_theme: "dark"
 title: "PyCampers"
-logo: "/logo.jpg"
 description: "A techno religion for the future"
 paginate: 25
 google_fonts:
