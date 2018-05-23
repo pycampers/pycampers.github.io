@@ -6,3 +6,9 @@ paginate: 25
 url: "http://pycampers.com"
 google_analytics: "UA-119542427-1"
 
+- title: Twitter
+  url: https://twitter.com/pycampers
+
+- title: Made Mistakes
+  url: http://mademistakes.com  
+
