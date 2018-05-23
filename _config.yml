@@ -1,5 +1,5 @@
 #theme: jekyll-theme-hacker
-remote_theme: poole/lanyon
+remote_theme: mmistakes/so-simple-theme
 blog_theme: "dark"
 title: "Py Campers"
 paginate: 25
