@@ -2,14 +2,17 @@
 
 __Hey there!__ Looks like you found us,
 
-Py Campers is techno religion, which preaches the python programming language.
+PyCampers is techno religion, which preaches the python programming language.
 
-[Why we need a techno religion](https://www.youtube.com/watch?v=lgeyUd_piiU)
+We need techno religions, because the old one's were never designed with technology in mind.  
+Quite the oppsosite, really.
+
+[More here](https://www.youtube.com/watch?v=lgeyUd_piiU).
 
 
-### Join us, will ye?
+## Join us, will ye?
 
-Accept these:
+Accept these -
 - No-one knows what they're doing 🌟
 - Everything is meaningless
 - [Meaning is a Jumper That You Have to Knit Yourself](https://www.youtube.com/watch?v=psaCM1j9LEM&t=1s)
