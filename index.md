@@ -27,7 +27,9 @@ No, we're not a bunch of crazy people, we're actual developers just like yoursel
 
 _And that's not a bad thing._
 
-You can `pip install` to do almost anything you want. (and it doens't take a millenia, looking at you npm)  
+__It's absolutely Incredible.__  
+You can `pip install` to do almost anything you want.   
+(and it doens't take a millenia, looking at you `npm`)  
 
 Humankind has yet to see a tool that has this kind of power.
 
