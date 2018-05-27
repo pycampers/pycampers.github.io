@@ -18,6 +18,19 @@ Accept these -
 - [Meaning is a Jumper That You Have to Knit Yourself](https://www.youtube.com/watch?v=psaCM1j9LEM&t=1s)
 
 
-No, we're not a bunch of crazy people, we're actual developers just like yourself. 
+No, we're not a bunch of crazy people, we're actual developers just like yourself.   
+(click on that big image up top)
 
-🐍🏕️ ⬳ Official Mascot
+## Why Python?
+
+> Python is the second best language for __everything__.
+
+_And that's not a bad thing._
+
+You can `pip install` to do almost anything you want. (and it doens't take a millenia, looking at you npm)  
+
+Humankind has yet to see a tool that has this kind of power.
+
+We're just here to let everyone realise this fact, and hopefully, one day, make python the __first__ best language for everything.
+
+🐍🏕️ &#9; <~ Official Mascot
