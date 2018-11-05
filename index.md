@@ -4,6 +4,8 @@ __Hey there!__ Looks like you found us,
 
 PyCampers is techno religion, which preaches the python programming language.
 
+_You know, that one, the one that makes programming in it feel like "cheating"._
+
 We need techno religions, because the old one's were never designed with technology in mind.    
 (Hint: People who wrote religious texts never had access to technology.)
 
