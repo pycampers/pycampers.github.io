@@ -12,6 +12,8 @@ google_fonts:
 url: "http://pycampers.com"
 google_analytics: "UA-119542427-1"
 
+date_format: "%d-%m-%Y"
+
 twitter:
   username: pycampers
   
