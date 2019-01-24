@@ -22,3 +22,14 @@ footer_links:
   - title: GitHub
     url: https://github.com/pycampers
     icon: fab fa-github-square
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
