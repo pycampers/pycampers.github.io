@@ -1,3 +1,11 @@
+---
+layout: home
+excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+show_excerpts: true
+paginate: true
+entries_layout: list
+---
+
 [![Image](https://i.imgur.com/dbsGJaD.jpg)](https://github.com/pycampers)
 
 __Hey there!__ Looks like you found us,
