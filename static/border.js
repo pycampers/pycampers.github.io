@@ -21,12 +21,12 @@ let snekLength;
 let snekBreadth;
 
 function loadSnek(initX, initY, borderSide) {
-  const texture = PIXI.Texture.fromImage("images/snake.png");
+  const texture = PIXI.Texture.fromImage("/images/snake.png");
   texture.baseTexture.on("loaded", function() {
     function onResize() {
       console.log("onresize!");
-      app.view.width = content.offsetWidth + snekBreadth * 2;
-      app.view.height = content.offsetHeight + snekBreadth * 2;
+      app.view.width = content.offsetWidth + snekBreadth * 4;
+      app.view.height = content.offsetHeight + snekBreadth * 4;
 
       app.renderer.resize(app.view.width, app.view.height);
 
@@ -186,11 +186,24 @@ function loadSnek(initX, initY, borderSide) {
 }
 
 document.body.onload = function() {
-  loadSnek(400, document.body.clientHeight / 2, BORDER_SIDES.top);
-  loadSnek(50, document.body.clientHeight / 2, BORDER_SIDES.left);
+  loadSnek(
+    document.body.clientWidth / 2,
+    document.body.clientHeight / 2,
+    BORDER_SIDES.top
+  );
+  loadSnek(
+    document.body.clientWidth / 2,
+    document.body.clientHeight / 2,
+    BORDER_SIDES.left
+  );
   loadSnek(
     document.body.clientWidth / 2,
     document.body.clientHeight / 2,
     BORDER_SIDES.right
+  );
+  loadSnek(
+    document.body.clientWidth / 2,
+    document.body.clientHeight / 2,
+    BORDER_SIDES.bottom
   );
 };
