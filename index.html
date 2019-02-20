@@ -1,54 +1,53 @@
 <!doctype html>
 <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
-  <link rel="stylesheet" href="./static/style.css">
-  <title>Welcome to pycampers! — pycampers</title>  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+    <link rel="stylesheet" href="./static/style.css">
+    <title>Welcome to pycampers! — pycampers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body class="ma3">
-  <div class="w-80-ns center">
+<div class="w-80-ns center" id="content" style="position: relative;">
     <header class="bg-black white pa3">
-    <h1 class="f1"><a href="/" class="link white i b">PyCampers</a></h1>
-    <span class="f5 i">A techno religion for the future.</span>
-    
-    <hr/>
+        <h1 class="f1"><a href="/" class="link white i b">PyCampers</a></h1>
+        <span class="f5">A techno religion for the future</span>
 
-    <nav>
-      <ul class="pv2">
-        <li class="active">
-          <a class="link light-blue underline-hover" href="./">Religion</a>
-        </li>
+        <hr/>
+
+        <nav>
+            <ul class="pv2">
+                <li class="active">
+                    <a class="link light-blue underline-hover" href="./">Religion</a>
+                </li>
+                
+                    <li>
+                        <a class="link light-blue underline-hover" href="./blog/">Blog</a>
+                    </li>
+                
+                    <li>
+                        <a class="link light-blue underline-hover" href="./projects/">Projects</a>
+                    </li>
+                
+                    <li>
+                        <a class="link light-blue underline-hover" href="./about/">About</a>
+                    </li>
+                
+            </ul>
+        </nav>
+    </header>
+    <div class="ba b--light-gray bw2 pa4-ns pa2">
         
-          <li>
-            <a class="link light-blue underline-hover" href="./blog/">Blog</a>
-          </li>
-        
-          <li>
-            <a class="link light-blue underline-hover" href="./projects/">Projects</a>
-          </li>
-        
-          <li>
-            <a class="link light-blue underline-hover" href="./about/">About</a>
-          </li>
-        
-      </ul>
-    </nav>
-  </header>
-  <div class="ba b--light-gray bw2 pa4-ns pa2"> 
-    
   <div>
       <h2 style="text-align: center;">Welcome to pycampers!</h2>
   </div>
-  <div style="text-align: center;"> 
+  <div class="tc pv3"> 
     <image src="images/logo_large.jpg" style="width: 50%;"/>
 </div><p><strong>Hey there!</strong> Looks like you found us,</p>
 <p>PyCampers is techno religion, which preaches the python programming language.</p>
 <p><em>You know, that one, the one that makes programming in it feel like "cheating".</em></p>
-<p>We need techno religions, because the old one's were never designed with technology in mind.<br>
-(Hint: People who wrote religious texts never had access to technology.)</p>
-<p><a href="https://www.youtube.com/watch?v=g6BK5Q_Dblo">More here</a>.</p>
+<p>We need techno religions, because the old one's were never designed with technology in mind.</p>
+<p><a href="https://www.youtube.com/watch?v=g6BK5Q_Dblo">Learn more here</a>. TLDR; People who wrote religious texts never had access to technology.</p>
 <h2>Join us, will ye?</h2>
 <p>Accept these -</p>
 <ul>
@@ -56,27 +55,29 @@
 <li>Everything is meaningless</li>
 <li><a href="https://www.youtube.com/watch?v=psaCM1j9LEM&amp;t=1s">Meaning is a Jumper That You Have to Knit Yourself</a></li>
 </ul>
-<p>No, we're not a bunch of crazy people, we're actual developers just like yourself.<br>
-(click on that big image up top)</p>
+<p>No, we're not a bunch of crazy people, we're actual developers just like yourself.</p>
 <h2>Why Python?</h2>
 <blockquote><p>Python is the second best language for <strong>everything</strong>.</p>
 </blockquote>
 <p><em>And that's not a bad thing.</em></p>
-<p><strong>It's absolutely Incredible.</strong><br>
-You can <code>pip install</code> to do almost anything you want.<br>
-(and it doens't take a millenia, looking at you <code>npm</code>)</p>
+<p><strong>It's absolutely Incredible.</strong></p>
+<p>Just <code>$ pip install antigravity</code>, and you do almost anything you want.</p>
 <p>Humankind has yet to see a tool that has this kind of power.</p>
 <p>We're just here to let everyone realise this fact, and hopefully, one day, make python the <strong>first</strong> best language for everything.</p>
 <p>🐍🏕️ &#9; &lt;~ Official Mascot</p>
 
 
-  </div>
-  <footer class="bg-black white pa4">
-    <div class="pv3">
-      Visit us on <a class="link light-blue underline-hover" href="https://github.com/pycampers">Github</a>
-      <hr>
     </div>
-      Written with <3 using <a class="link light-red underline-hover" href="https://www.getlektor.com/">Lektor</a>
+    <footer class="bg-black white pa4">
+        <div class="pv3">
+            Visit us on <a class="link light-blue underline-hover" href="https://github.com/pycampers">Github</a>
+            <hr>
+        </div>
+        Written with <3 using <a class="link light-red underline-hover" href="https://www.getlektor.com/">Lektor</a>
     </footer>
-  </div>
+
+    <canvas id="border-canvas"></canvas>
+</div>
+<script src="https://pixijs.download/release/pixi.min.js"></script>
+<script src="./static/border.js"></script>
 </body>

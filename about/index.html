@@ -1,55 +1,61 @@
 <!doctype html>
 <head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
-  <link rel="stylesheet" href="../static/style.css">
-  <title>About this Website — pycampers</title>  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+    <link rel="stylesheet" href="../static/style.css">
+    <title>About us — pycampers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body class="ma3">
-  <div class="w-80-ns center">
+<div class="w-80-ns center" id="content" style="position: relative;">
     <header class="bg-black white pa3">
-    <h1 class="f1"><a href="/" class="link white i b">PyCampers</a></h1>
-    <span class="f5 i">A techno religion for the future.</span>
-    
-    <hr/>
+        <h1 class="f1"><a href="/" class="link white i b">PyCampers</a></h1>
+        <span class="f5">A techno religion for the future</span>
 
-    <nav>
-      <ul class="pv2">
-        <li>
-          <a class="link light-blue underline-hover" href="../">Religion</a>
-        </li>
+        <hr/>
+
+        <nav>
+            <ul class="pv2">
+                <li>
+                    <a class="link light-blue underline-hover" href="../">Religion</a>
+                </li>
+                
+                    <li>
+                        <a class="link light-blue underline-hover" href="../blog/">Blog</a>
+                    </li>
+                
+                    <li>
+                        <a class="link light-blue underline-hover" href="../projects/">Projects</a>
+                    </li>
+                
+                    <li class="active">
+                        <a class="link light-blue underline-hover" href="../about/">About</a>
+                    </li>
+                
+            </ul>
+        </nav>
+    </header>
+    <div class="ba b--light-gray bw2 pa4-ns pa2">
         
-          <li>
-            <a class="link light-blue underline-hover" href="../blog/">Blog</a>
-          </li>
-        
-          <li>
-            <a class="link light-blue underline-hover" href="../projects/">Projects</a>
-          </li>
-        
-          <li class="active">
-            <a class="link light-blue underline-hover" href="../about/">About</a>
-          </li>
-        
-      </ul>
-    </nav>
-  </header>
-  <div class="ba b--light-gray bw2 pa4-ns pa2"> 
-    
   <div>
-      <h2 style="text-align: center;">About this Website</h2>
+      <h2 style="text-align: center;">About us</h2>
   </div>
-  
+  <p class="tc"> 
+ We're a group of programmers, and aspiring indie-hackers.
+</p>
 
-  </div>
-  <footer class="bg-black white pa4">
-    <div class="pv3">
-      Visit us on <a class="link light-blue underline-hover" href="https://github.com/pycampers">Github</a>
-      <hr>
     </div>
-      Written with <3 using <a class="link light-red underline-hover" href="https://www.getlektor.com/">Lektor</a>
+    <footer class="bg-black white pa4">
+        <div class="pv3">
+            Visit us on <a class="link light-blue underline-hover" href="https://github.com/pycampers">Github</a>
+            <hr>
+        </div>
+        Written with <3 using <a class="link light-red underline-hover" href="https://www.getlektor.com/">Lektor</a>
     </footer>
-  </div>
+
+    <canvas id="border-canvas"></canvas>
+</div>
+<script src="https://pixijs.download/release/pixi.min.js"></script>
+<script src="../static/border.js"></script>
 </body>
